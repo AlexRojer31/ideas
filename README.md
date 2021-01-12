@@ -1,3 +1,2 @@
 # ideas
-
-Привет привет мой конфет
+My ideas on web development
